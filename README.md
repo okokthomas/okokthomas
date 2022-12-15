@@ -31,8 +31,8 @@
 
 ### 🌐Socials:
 <div>
-<a href="https://www.linkedin.com/in/thomas-benson-8b15a2244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://instagram.com/uthomasz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/thomas-benson-8b15a2244/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://instagram.com/uthomasz" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank"></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20657709/thomas-benson" target"_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" target"_blank"></a>
 </div>
           
