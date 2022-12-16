@@ -1,4 +1,4 @@
-### Oioi, eu sou o Thomas! Um desenvolvedor Web.
+### Oiii, eu sou o Thomas! Um desenvolvedor Web.
 ##
 ### Apresentação:
 -  Sou brasileiro, tenho 19 anos e busco entrar de cabeça nesse mundo da tecnologia, além da faculdade de ADS, estou fazendo cursos avulsos como os do Gustavo Guanabara, na intenção de acelerar meu processo de aprendizagem e poder alcançar a tão sonhada vaga de dev em um estágio ou Jr, moro em Juquitiba-SP. 
