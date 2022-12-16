@@ -7,14 +7,7 @@
 -  Pronomes: Ele/Dele
 - 📫 Entre em contato: thomasb0807@gmail.com
 - ⚡ Fun fact: Apaixonado por tecnologia desde sempre, tive meu primeiro contato com um computador aos 7 anos.
- ##
-### 📊Stats:
 
-<div align="center">
-  <a href="https://github.com/okokthomas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=okokthomas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okokthomas&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
   ##
   
