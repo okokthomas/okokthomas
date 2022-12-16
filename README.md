@@ -5,7 +5,7 @@
 -  Estou em busca de um estágio/Jr Front-End ou FullStack.
 -  Atualmente estou me aprofundando em HTML, CSS, JavaScript e C++
 -  Pronomes: Ele/Dele
-- 📫 Entre em contato: thomasb0807@gmail.com
+-  Entre em contato: thomasb0807@gmail.com
 - ⚡ Fun fact: Apaixonado por tecnologia desde sempre, tive meu primeiro contato com um computador aos 7 anos.
 
 
