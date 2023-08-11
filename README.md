@@ -1,12 +1,10 @@
 ### Oiii, eu sou o Thomas! Um desenvolvedor Web.
 ##
 ### Apresentação:
--  Sou brasileiro, tenho 19 anos e busco entrar de cabeça nesse mundo da tecnologia, além da faculdade de ADS(Análise e Desenvolvimento de Sistemas), estou fazendo cursos avulsos como os do Gustavo Guanabara, na intenção de acelerar meu processo de aprendizagem e poder alcançar a vaga de dev em um estágio ou Jr, moro em Juquitiba-SP. 
--  Estou em busca de um estágio/Jr Front-End ou FullStack.
+-  Sou brasileiro, tenho 20 anos e estou me tornando um programador, além da faculdade de ADS(Análise e Desenvolvimento de Sistemas), estou fazendo cursos avulsos como os do Gustavo Guanabara, na intenção de acelerar meu processo de aprendizagem e poder alcançar a vaga de dev em um estágio ou Jr, moro em Juquitiba-SP. 
+-  Estou em busca de um estágio/Jr Fullstack ou Front-End.
 -  Atualmente estou me aprofundando em HTML, CSS, JavaScript e C#
--  Pronomes: Ele/Dele
 -  Entre em contato: thomasb0807@gmail.com
-- ⚡ Fun fact: Apaixonado por tecnologia desde sempre, tive meu primeiro contato com um computador aos 7 anos.
 
 
   ##
