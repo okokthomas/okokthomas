@@ -3,7 +3,7 @@
 ### Apresentação:
 -  Sou brasileiro, tenho 20 anos e estou me tornando um programador, além da faculdade de ADS(Análise e Desenvolvimento de Sistemas), estou fazendo cursos avulsos como os do Gustavo Guanabara, na intenção de acelerar meu processo de aprendizagem e poder alcançar a vaga de dev em um estágio ou Jr, moro em Juquitiba-SP. 
 -  Estou em busca de um estágio/Jr Fullstack ou Front-End.
--  Atualmente estou me aprofundando em HTML, CSS, JavaScript e C#
+-  Atualmente estou me aprofundando em HTML, CSS, JavaScript.
 -  Entre em contato: thomasb0807@gmail.com
 
 
